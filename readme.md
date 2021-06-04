@@ -16,6 +16,8 @@ For more information, [see](https://prometheus.io/docs/introduction/overview/)
 ## Results 📊
 <img src="https://github.com/akshaybahadur21/Prometheus_Monitoring/blob/master/prom.gif">
 
+## Setup 🖥️
+
 Changes in prometheus.yml file
 ```java
   - job_name: 'prometheus-metrics'
